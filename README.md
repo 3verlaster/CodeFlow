@@ -5,4 +5,4 @@
 
 Все ошибки которые запланированы для обнаружения в будущих обновлениях записаны в файл error_messages.
 
-![root = Tk()](images/example.png)
+![root = Tk()](CodeFlow/images/example.jpg)
