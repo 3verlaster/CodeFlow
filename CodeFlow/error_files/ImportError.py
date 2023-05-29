@@ -1,0 +1,2 @@
+import fuckpython
+import antisocial
